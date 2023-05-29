@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RMExpandable'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of RMExpandable.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'RMExpandable/Classes/**/*'
+  s.source_files = 'Sources/RMExpandable/**/*'
   
   # s.resource_bundles = {
   #   'RMExpandable' => ['RMExpandable/Assets/*.png']
